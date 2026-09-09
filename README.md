@@ -5,7 +5,7 @@
 	<tr>
 		<td>Artemis II</td>
 		<td rowspan="2">
-			<img style="height:400px;" src="Artemis_II.png">
+			<img style="height:400px; aspect-ratio: 16 / 9;" src="Artemis_II.png">
 		</td>
 	</tr>
 	<tr>
